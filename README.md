@@ -1,6 +1,6 @@
 ### Hi everyone 👋 let me introduce myself:
 
-:sparkles::information_desk_person::sparkles: I'm Carla Mendes and I'm a woman in Tech. I'm an IT professional and I'm a bachelor in Computer Science. 
+:sparkles::information_desk_person::sparkles: I'm Carla Mendes and I'm a bachelor in Computer Science. 
 
 :dart: I want to become a Data Scientist and to achieve this goal I'm currently learning SQL, python, statistics, machine learning and cloud computing for data science. 
 

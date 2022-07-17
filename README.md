@@ -14,7 +14,7 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
 
 <div align="center">
     <a href="https://www.linkedin.com/in/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-     </a> 
+    </a> 
     <a href = "https://github.com/carlamendescms"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white target="_blank">
     </a>
     <a href = "mailto:carlamendes.cms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -24,6 +24,8 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
     <a href="https://www.hackerrank.com/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
     </a>
     <a href="https://www.datacamp.com/profile/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
+    </a>
+    <a href="https://leetcode.com/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
     </a>    
 </div>
 <br>

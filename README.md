@@ -36,7 +36,7 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
 </div>
 
 <!-- Linguagens e Ferramentas -->
-## Technologies:
+## Technologies & Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Badge Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

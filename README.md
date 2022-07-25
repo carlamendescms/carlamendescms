@@ -26,7 +26,10 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
     <a href="https://www.datacamp.com/profile/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
     </a>
     <a href="https://leetcode.com/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-    </a>    
+    </a> 
+    <a href="https://steamcommunity.com/id/carlacms" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+    </a>
+    
 </div>
 <br>
 <div align="center">

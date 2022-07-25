@@ -26,10 +26,7 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
     <a href="https://www.datacamp.com/profile/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
     </a>
     <a href="https://leetcode.com/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-    </a> 
-    <a href="https://steamcommunity.com/id/carlacms" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-    </a>
-    
+    </a>    
 </div>
 <br>
 <div align="center">
@@ -46,4 +43,12 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
   <img align="center" alt="Badge Microsof SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="Badge PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Badge MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<!-- Passatempos -->
+## Hobbies:
+
+<div style="display: inline_block"><br>
+  <a href="https://steamcommunity.com/id/carlacms" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
 </div>

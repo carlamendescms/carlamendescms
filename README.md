@@ -41,7 +41,7 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
 
 ## Technologies & Tools:
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Badge Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Badge Microsof SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="Badge PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">

@@ -30,8 +30,9 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
     <a href="https://steamcommunity.com/id/carlacms" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
     </a>
 </div>
-<br>
+
 <div align="center">
+<br>
   <a href="https://github.com/carlamendescms">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/>

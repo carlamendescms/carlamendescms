@@ -48,3 +48,17 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
   <img align="center" alt="Badge PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Badge MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+
+<br></br>
+
+<b> Main Repositories</b>:
+
+<a href="https://github.com/carlamendescms/data-science">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=data-science&theme=dark" />
+</a>
+
+<a href="https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=certificacao-analista-dados-ibm-laboratoria&theme=dark" />
+</a>
+

@@ -51,8 +51,9 @@ I want to become a Data Scientist and to achieve this goal I'm currently learnin
 
 
 <br></br>
+## Main Repositories:
 
-<b> ## Main Repositories</b>:
+<div align="center"> <br>
 
 <a href="https://github.com/carlamendescms/data-science">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=data-science&theme=dark" />

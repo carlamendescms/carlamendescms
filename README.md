@@ -2,15 +2,23 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla! 👋
 
-I want to become a Data Scientist and to achieve this goal I'm currently learning:
+I love innovation and technology. 👩‍💻❤️‍🔥
 
-🎯 SQL 
+I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development (Product Owner). 
 
-🎯 Python 
+I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft SQL Server and Oracle. I developed BI dashboards in data visualization tools like Qlik Sense and Power BI.
 
-🎯 Statistics
+In 2021, I started my studies in Data Science. I studied in Data Analytics Bootcamp (260 hours) offered by WoMakersCode. I'm learning MBA in Big Data and Data Analytics. I also study Data Analysis Certification by Laboratoria and IBM. 
 
-🎯 Machine Learning
+What am I studying now?
+
+📌 SQL
+📌 Python 
+📌 Statistic
+📌 Descriptive and Exploratory Data Analysis 
+📌 Data Transform
+📌 Machine Learning
+
 
 ##  Find me
 

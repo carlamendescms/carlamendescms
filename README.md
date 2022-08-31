@@ -1,4 +1,4 @@
-“Humans are allergic to change. They love to say, "We've always done it this way." I try to fight that. That's why I have a clock on my wall that runs counter-clockwise.” - Grace Murray Hopper
+_Humans are allergic to change. They love to say, "We've always done it this way." I try to fight that. That's why I have a clock on my wall that runs counter-clockwise._ - Grace Murray Hopper
 
 ## Hi everyone, I'm Carla! 👋
 

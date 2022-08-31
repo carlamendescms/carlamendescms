@@ -1,3 +1,5 @@
+“Humans are allergic to change. They love to say, "We've always done it this way." I try to fight that. That's why I have a clock on my wall that runs counter-clockwise.” - Grace Murray Hopper
+
 ## Hi everyone, I'm Carla! 👋
 
 I want to become a Data Scientist and to achieve this goal I'm currently learning:

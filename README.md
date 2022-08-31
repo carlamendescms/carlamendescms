@@ -10,7 +10,7 @@ I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft
 
 In 2021, I started my studies in Data Science. I studied in Data Analytics Bootcamp (260 hours) offered by WoMakersCode. I'm learning MBA in Big Data and Data Analytics. I also study Data Analysis Certification by Laboratoria and IBM. 
 
-What am I studying now?
+## What am I studying now?
 
 📌 SQL
 

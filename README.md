@@ -13,10 +13,15 @@ In 2021, I started my studies in Data Science. I studied in Data Analytics Bootc
 What am I studying now?
 
 📌 SQL
+
 📌 Python 
+
 📌 Statistic
+
 📌 Descriptive and Exploratory Data Analysis 
+
 📌 Data Transform
+
 📌 Machine Learning
 
 

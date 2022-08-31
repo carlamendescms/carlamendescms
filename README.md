@@ -48,12 +48,6 @@ What am I studying now?
     </a>
 </div>
 
-<div align="center"> <br>
-  <a href="https://github.com/carlamendescms">
-  </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/>  
-</div>
 
 ## Technologies & Tools:
 
@@ -78,3 +72,9 @@ What am I studying now?
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=certificacao-analista-dados-ibm-laboratoria&theme=dark" />
 </a>
 
+<div align="center"> <br>
+  <a href="https://github.com/carlamendescms">
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/>  
+</div>

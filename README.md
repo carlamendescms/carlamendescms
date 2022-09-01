@@ -62,14 +62,6 @@ In 2021, I started my studies in Data Science. I studied in Data Analytics Bootc
   <img align="center" alt="Badge MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Badge Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
-
-
-<div align="center"> <br>
-  <a href="https://github.com/carlamendescms">
-  </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
-</div>
     
 ## Where am I studying?
 
@@ -91,5 +83,10 @@ In 2021, I started my studies in Data Science. I studied in Data Analytics Bootc
   <img width="45%"src="https://github.com/carlamendescms/carlamendescms/blob/main/minions-computer.gif" alt="animated" />
 </div>
     
-
+<div align="center"> <br>
+  <a href="https://github.com/carlamendescms">
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
+</div>
 

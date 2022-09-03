@@ -9,7 +9,9 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 I love innovation and technology. 👩‍💻❤️‍🔥 
 
-I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. I want to work as a data scientist.
+I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
+
+I want to work as a ✨Data Scientist✨
 
 👀 I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft SQL Server and Oracle. I developed BI dashboards in data visualization tools as Qlik Sense and Power BI.
 

@@ -9,9 +9,9 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 I love innovation and technology. 👩‍💻❤️‍🔥 
 
-I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
+I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. I want to work as a data scientist.
 
-👀 I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft SQL Server and Oracle. I developed BI dashboards in data visualization tools like Qlik Sense and Power BI.
+👀 I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft SQL Server and Oracle. I developed BI dashboards in data visualization tools as Qlik Sense and Power BI.
 
 In 2021, I started my studies in Data Science. I studied in Data Analytics Bootcamp (260 hours) by WoMakersCode. I'm learning MBA in Big Data and Data Analytics. I also study Data Analysis Certification (240 hours) by Laboratoria and IBM. 
 

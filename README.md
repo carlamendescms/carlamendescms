@@ -7,7 +7,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-I love innovation and technology. 👩‍💻❤️‍🔥 
+I'm passionate about innovation and technology. 👩‍💻❤️‍🔥 
 
 I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
 

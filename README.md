@@ -7,15 +7,11 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-I'm passionate about innovation and technology. 👩‍💻❤️‍🔥 
+I'm passionate about innovation and technology. 👩‍💻❤️‍🔥 I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
 
-I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
+Now, I want to work as a ✨Data Scientist✨ and I'm studying to achieve this goal.
 
-I want to work as a ✨Data Scientist✨
-
-👀 I am very curious. In my jobs, I developed reports with SQL scripts in Microsoft SQL Server and Oracle. I developed BI dashboards in data visualization tools as Qlik Sense and Power BI.
-
-In 2021, I started my studies in Data Science. I studied in Data Analytics Bootcamp (260 hours) by WoMakersCode. I'm learning MBA in Big Data and Data Analytics. I also study Data Analysis Certification (240 hours) by Laboratoria and IBM. 
+In 2021, I started my studies in Data Science. I studied in a Data Analytics Bootcamp (260 hours) by WoMakersCode. I also obtained a Data Analysis Certification (240 hours) from Laboratoria and IBM. I'm studying MBA in Big Data and Data Analytics.
 
 ## Where can you find me?
 
@@ -32,8 +28,6 @@ In 2021, I started my studies in Data Science. I studied in Data Analytics Bootc
 
 📌 SQL, because it is never too much. 
 
-📌 Python 
-
 📌 Statistic
 
 📌 Descriptive and Exploratory Data Analysis 
@@ -42,6 +36,7 @@ In 2021, I started my studies in Data Science. I studied in Data Analytics Bootc
 
 📌 Machine Learning
 
+📌 Python 
 
 ## What are my main repositories?
 <div align="center"> <br>

@@ -7,11 +7,11 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-I'm passionate about innovation and technology. 👩‍💻❤️‍🔥 I'm Computer Science Bachelors. I have more than 6 years of experience with requirements analysis for software development. 
-
-Now, I want to work as a ✨Data Scientist✨ and I'm studying to achieve this goal.
+👩‍💻 I'm Business Intelligence Analyst and I want to work as a ✨Data Scientist✨, so I'm studying to achieve this goal.
 
 In 2021, I started my studies in Data Science. I studied in a Data Analytics Bootcamp (260 hours) by WoMakersCode. I also obtained a Data Analysis Certification (240 hours) from Laboratoria and IBM. I'm studying MBA in Big Data and Data Analytics.
+
+I'm passionate about problem-solving that make life easier and world better. 
 
 ## Where can you find me?
 
@@ -87,3 +87,4 @@ In 2021, I started my studies in Data Science. I studied in a Data Analytics Boo
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 
+Hang in there! ♾️

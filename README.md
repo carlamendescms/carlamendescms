@@ -7,7 +7,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-👩‍💻 I'm Business Intelligence Analyst at RD (RaiaDrograsil)
+👩‍💻 I'm Business Intelligence Analyst at RD (RaiaDrogasil)
 
 🎓 Computer Science Bachelors (Mar 2009 - Feb 2014)
 

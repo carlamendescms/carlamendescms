@@ -7,38 +7,20 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-👩‍💻 I'm Business Intelligence Analyst and I want to work as a ✨**Data Scientist**✨, so I'm studying to achieve this goal.
+👩‍💻 I'm Business Intelligence Analyst at RD (RaiaDrograsil)
 
-In 2021, I started my studies in Data Science. I studied in a Data Analytics Bootcamp (260 hours) by WoMakersCode. I also obtained a Data Analysis Certification (240 hours) from Laboratoria and IBM. I'm studying MBA in Big Data and Data Analytics.
+🎓 Computer Science Bachelors (Mar 2009 - Feb 2014)
 
-I'm passionate about problem-solving that make life easier and world better. 
+📚 I'm studying MBA in Big Data, Competitive Intelligence and Data Analytics (2022)
 
-## Where can you find me?
 
-<div align="center"> <br>
-    <a href="https://www.linkedin.com/in/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a> 
-    <a href = "https://github.com/carlamendescms"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-    <a href = "mailto:carlamendes.cms@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.youtube.com/user/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-    </a>   
-</div>
-    
-## What am I studying now?
+# 🎯 I want to be a Data Scientist
 
-📌 SQL, because it is never too much. 
+🚀 In 2021, I started my learning in Data Science:
 
-📌 Statistic
-
-📌 Descriptive and Exploratory Data Analysis 
-
-📌 Data Transformation
-
-📌 Machine Learning
-
-📌 Python 
+- Data Analytics Bootcamp by WoMakersCode - 260 hours (Nov 2021 - May 2022). 
+- [Data Analytics and Visualization Camp](https://www.credly.com/badges/a9c681b9-fc47-401b-9687-1f816d68c51f/public_url) from Laboratoria and IBM - 240 hours (Apr 2022 - Sep 2022). 
+- I'm currently studying Statistics and Machine Learning with Python. 
 
 ## What are my main repositories?
 <div align="center"> <br>
@@ -62,7 +44,13 @@ I'm passionate about problem-solving that make life easier and world better.
   <img align="center" alt="Badge PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="Badge MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
-    
+<div align="center"> <br>
+  <a href="https://github.com/carlamendescms">
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
+</div>
+
 ## Where am I studying?
 
 <div align="center"> <br>
@@ -83,11 +71,6 @@ I'm passionate about problem-solving that make life easier and world better.
    **Hang in there!** ♾️
 </div>
     
-<div align="center"> <br>
-  <a href="https://github.com/carlamendescms">
-  </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
-</div>
+
 
 

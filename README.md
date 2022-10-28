@@ -22,15 +22,15 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 - [Data Analytics and Visualization Camp](https://www.credly.com/badges/a9c681b9-fc47-401b-9687-1f816d68c51f/public_url) from Laboratoria and IBM - 240 hours (Apr 2022 - Sep 2022). 
 - I'm currently studying Statistics and Machine Learning with Python. 
 
-## What are my main repositories?
+## What am I studying? 
 <div align="center"> <br>
 
 <a href="https://github.com/carlamendescms/data-science">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=data-science&theme=dark" />
 </a>
 
-<a href="https://github.com/carlamendescms/certificacao-analista-dados-ibm-laboratoria">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=certificacao-analista-dados-ibm-laboratoria&theme=dark" />
+<a href="https://github.com/carlamendescms/statistics">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=statistics&theme=dark" />
 </a>
 </div>
 

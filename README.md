@@ -9,7 +9,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 👩‍💻 I'm Business Intelligence Analyst at RD (RaiaDrogasil)
 
-🎓 Computer Science Bachelors (Mar 2009 - Feb 2014)
+🎓 BS Computer Science (Mar 2009 - Feb 2014)
 
 📚 I'm studying MBA in Big Data, Competitive Intelligence and Data Analytics (2022)
 

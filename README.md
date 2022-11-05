@@ -22,7 +22,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 - [Data Analytics and Visualization Camp](https://www.credly.com/badges/a9c681b9-fc47-401b-9687-1f816d68c51f/public_url) from Laboratoria and IBM - 240 hours (Apr 2022 - Sep 2022). 
 - I'm currently studying [Statistics and Machine Learning with Python](https://github.com/carlamendescms?tab=projects). 
 
-## What am I studying? 
+## My main repositories
 <div align="center"> <br>
 
 <a href="https://github.com/carlamendescms/data-science">

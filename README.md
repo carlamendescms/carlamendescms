@@ -7,20 +7,12 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-👩‍💻 I'm Data Analyst at [Orbia](https://institucional.orbia.ag/)
-
-🎓 BS Computer Science (Mar 2009 - Feb 2014)
-
-📚 I'm studying MBA in Big Data, Competitive Intelligence and Data Analytics (2022)
-
-
-# 🎯 I want to be a Data Scientist
-
-🚀 In 2021, I started my learning in Data Science:
-
-- [Data Analytics Bootcamp](https://drive.google.com/file/d/1l1ot6kiO6PXBVboyVyQaqnALh9o5ZpT6/view) by WoMakersCode - 260 hours (Nov 2021 - May 2022). 
-- [Data Analytics and Visualization Camp](https://www.credly.com/badges/a9c681b9-fc47-401b-9687-1f816d68c51f/public_url) from Laboratoria and IBM - 240 hours (Apr 2022 - Sep 2022). 
-- I'm currently studying [Statistics and Machine Learning with Python](https://github.com/carlamendescms?tab=projects). 
+- 🎲💻 I'm Data Analyst and I want to be a Data Scientist.
+- 👩‍💻 Currently working for [Orbia](https://institucional.orbia.ag/)
+- 🌎 Based in Lisbon, Portugal
+- 🎓 BS Computer Science (Mar 2009 - Feb 2014)
+- 📚 I'm studying MBA in Big Data, Competitive Intelligence and Data Analytics (2022)
+- ✨ More about me: [LinkedIn](https://www.linkedin.com/in/carlamendescms/)
 
 ## My main repositories
 <div align="center"> <br>
@@ -34,23 +26,6 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 </a>
 </div>
 
-## What technologies and tools do I use?
-
-<div align="center"> <br>
-  <img align="center" alt="Badge Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="Badge AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Badge Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img align="center" alt="Badge Microsof SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
-  <img align="center" alt="Badge PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Badge MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-<div align="center"> <br>
-  <a href="https://github.com/carlamendescms">
-  </a>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
-</div>
-
 ## Where am I studying?
 
 <div align="center"> <br>
@@ -62,6 +37,13 @@ _Humans are allergic to change. They love to say, "We've always done it this way
     </a>
     <a href="https://leetcode.com/carlamendescms" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
     </a>
+</div>
+
+<div align="center"> <br>
+  <a href="https://github.com/carlamendescms">
+  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=carlamendescms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>    
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlamendescms&layout=compact&langs_count=7&theme=dracula"/> 
 </div>
 
 ## Now, I try and try... Let's Go! 💪

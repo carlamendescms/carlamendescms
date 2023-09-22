@@ -7,11 +7,11 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-- 🎲💻 I'm Data Analyst and I want to be a Data Scientist.
+- 🎲💻 I'm Data Analyst and I want to be a Data Scientist
 - 👩‍💻 Currently working for [Orbia](https://institucional.orbia.ag/)
 - 🌎 Based in Lisbon, Portugal
 - 🎓 BS Computer Science (Mar 2009 - Feb 2014)
-- 📚 I'm studying MBA in Big Data, Competitive Intelligence and Data Analytics (2022)
+- 📚 I'm studying Statistics and Machine Learning with Python
 - ✨ More about me: [LinkedIn](https://www.linkedin.com/in/carlamendescms/)
 
 ## My main repositories

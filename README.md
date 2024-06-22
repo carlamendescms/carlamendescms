@@ -7,7 +7,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-- 🎲💻 I'm Data Analyst and I want to be a Data Scientist
+- 🎲 I love Data Analysis ❤️
 - 👩‍💻 Currently working for [Orbia](https://institucional.orbia.ag/)
 - 🌎 Based in Lisbon, Portugal
 - 🎓 BS Computer Science (Mar 2009 - Feb 2014)
@@ -16,9 +16,9 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## My main repositories
 <div align="center"> <br>
-
-<a href="https://github.com/carlamendescms/data-science">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=data-science&theme=dark" />
+   
+<a href="https://github.com/carlamendescms/analise-de-segmentacao-de-clientes-no-e-commerce">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=carlamendescms&repo=analise-de-segmentacao-de-clientes-no-e-commerce&theme=dark" />
 </a>
 
 <a href="https://github.com/carlamendescms/statistics">

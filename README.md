@@ -8,7 +8,7 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 ## Hi everyone, I'm Carla Mendes! 👋  
 
 - 🎲 I love Data Analysis ❤️
-- 👩‍💻 Currently working for [Orbia](https://institucional.orbia.ag/)
+- 👩‍💻 Currently working for [Devoteam](https://www.devoteam.com/)
 - 🌎 Based in Lisbon, Portugal
 - 🎓 BS Computer Science (Mar 2009 - Feb 2014)
 - 📚 I'm studying Statistics and Machine Learning with Python

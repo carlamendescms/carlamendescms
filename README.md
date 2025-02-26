@@ -8,11 +8,11 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 ## Hi everyone, I'm Carla Mendes! 👋  
 
 - 🎲 I love Data Analysis ❤️
-- 👩‍💻 Currently working for [Devoteam](https://www.devoteam.com/)
+- 👩‍💻 I work as Senior Data Analyst at [Devoteam](https://www.devoteam.com/)
 - 🌎 Based in Lisbon, Portugal
-- 🎓 BS Computer Science (Mar 2009 - Feb 2014)
+- 🎓 BS Computer Science (Mar 2009 - Feb 2014) and MBA in Big Data & Intelligence Competitive (Jan 2022 - May 2023)
 - 📚 I'm studying Statistics and Machine Learning with Python
-- ✨ More about me: [LinkedIn](https://www.linkedin.com/in/carlamendescms/)
+- ✨ <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=carlamendescms" target="_blank">LinkedIn</a> ✨
 
 ## My main repositories
 <div align="center"> <br>

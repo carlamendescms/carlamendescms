@@ -7,9 +7,10 @@ _Humans are allergic to change. They love to say, "We've always done it this way
 
 ## Hi everyone, I'm Carla Mendes! 👋  
 
-- 🎲 I love Data Analysis ❤️
-- 👩‍💻 I work as Senior Data Analyst at [Devoteam](https://www.devoteam.com/)
-- 🌎 Based in Lisbon, Portugal
+- 🔎 I'm currently open to Data Scientist opportunities 💼
+- 👩‍💻 I worked as Senior Data Analyst at [Devoteam](https://www.devoteam.com/), [Orbia](https://www.orbia.ag/) and [Raia & Drogasil - RD Saúde](https://rdsaude.com.br/).
+- 📊 As a Senior Data Analyst, I supported loyalty teams, delivering insights and analyses related to customer acquisition, retention, lifetime value (CLV), cohort analysis, and churn.
+- 🌎 Based in Cuiabá, Brazil
 - 🎓 BS Computer Science (Mar 2009 - Feb 2014) and MBA in Big Data & Intelligence Competitive (Jan 2022 - May 2023)
 - 📚 I'm studying Statistics and Machine Learning with Python
 - ✨ <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=carlamendescms" target="_blank">LinkedIn</a> ✨
